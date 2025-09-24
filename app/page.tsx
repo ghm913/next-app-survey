@@ -4,7 +4,6 @@ import { useState } from 'react';
 import { SurveyFormData, RoofDirection, PropertyType, RoofAge, PowerConsumption, EnergyInterest } from './types';
 import Fragen from './Fragen';
 import Kontakt from './Kontakt';
-import Erbebnis from './Ergebnis';
 import Ergebnis from './Ergebnis';
 
 export default function Home() {
